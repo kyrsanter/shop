@@ -1,0 +1,17 @@
+.parallax .parallax-image {
+  background: url(../../img/parallax/bg.png) no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 200px 0;
+}
+.parallax .parallax-image .container .parallax-title {
+  font-size: 35px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+.parallax .parallax-image .container .parallax-text {
+  max-width: 400px;
+  color: #fff;
+  font-weight: 300;
+  font-size: 20px;
+}
